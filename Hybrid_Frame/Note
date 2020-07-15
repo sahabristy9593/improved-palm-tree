@@ -1,0 +1,12 @@
+Phase-1 Implementation
+
+1. Create Maven Project
+2. Update pom.xml
+3. Create Page objects
+4. Create Basic Test Cases
+5. Add logs to test case
+6. Read common values from excel
+7. Run test case on desired browser
+8. Add extent Report
+9. Create Data driven test cases
+10. adding new test case
